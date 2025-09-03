@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Hackerwayhub
+- 👋 Hi, I’m @bchris
 - 👀 I’m interested in ...building technologies to help shape a better world
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...HE
-- ⚡ Fun fact: ...I`M ADDICTED TO WINNING!
+- ⚡ Fun fact: ...I like building fun shit
 
 <!---
 Hackerwayhub/Hackerwayhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
